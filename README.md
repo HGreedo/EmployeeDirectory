@@ -9,3 +9,4 @@ Creating a directory with React - break ur application into components, manage c
 5. Deploy site to github pages 
 6. Be sure to depoy your codbase to github - not your built and deployed code? - gh-pages
 7. must submit URL to deployed app and URL to github repo 
+ https://hgreedo.github.io/EmployeeDirectory/
